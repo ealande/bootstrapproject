@@ -16,10 +16,14 @@ body{
     color:#fff;
 }
 
-.navbar-brand{
+.navbar-toggler{
+    background-color: #FFeae6;
+}
+
+.section-title {
     font-family: Pacifico, cursive;
 }
 
-.navbar-toggler{
-    background-color: #FFeae6;
+.section-title span{
+    color: #e15f41;
 }
